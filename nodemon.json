@@ -1,7 +1,0 @@
-{
-  "env":{
-    "USERNAME":"sagar",
-    "MONGO_ATLAS_PW":"eI8BAnFg3FFaUOge",
-    "JWT_KEY":"secret_this_should_be_longer"
-  }
-}
