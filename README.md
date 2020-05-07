@@ -12,6 +12,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ➼ No other changes to be made to the code except in `nodemon.json`.<br>
 ➼ Video link (https://drive.google.com/open?id=1_JcpyFaVRV9etKrEHbDelabTnoZOdZWp) to clarify the steps!
 
+## Installation of Required Modules
+Run `npm install` to install reqiured modules
+
 ## Angular Frontend UI
 Run `ng serve` for the app frontend. Navigate to `http://localhost:4200/`.
 
